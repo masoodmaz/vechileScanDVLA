@@ -1,0 +1,28 @@
+Defect ID,Rally ID,Summary,Status,Severity
+801,DE4956,11.1.2 PPC Minimum Floor missing in new Design,Closed,1-Critical
+1076,DE5275,11.2.2.1 Pocket Price Corridor Approval_ Minimum Floor Values not considering Exception Maintained in screen 11.1.1,Closed,1-Critical
+1078,DE5282,PPC Approval Level_Minimum Floor Values are not correctly calculated,Closed,1-Critical
+999,DE5233,6.3.1 Standard Template - no error message on market share,Closed,2-High
+1085,DE5293,% Market Shares Going Bananas,Closed,1-Critical
+1035,DE5255,"Trade Name Missing, PLV not generating",Closed,2-High
+1020,DE5244,Error message while generating PLV 6.3.11,Closed,3-Medium
+1022,DE5246,Error in PLV,Closed,3-Medium
+1033,DE5253,9.10.10 Price List View showing error for ID Country,Closed,2-High
+1023,DE5247,Indonesia -� PLV is NOT generating for CP and Seeds,Closed,2-High
+997,DE5229,Brand-level Discount & Rebates - Currency and UoM is NOT displaying,closed,3-Medium
+1081,DE5289,9.10.10 Price List View error,closed,2-High
+,,,,
+,DE5337,SY/Campanha disponível no Salesforce não aparece no ajuste de preço. - fix the typo,Resolved,High
+,US352,[Current] NFUS-6.5.8 - SA - Product Master,Accepted,
+,DE5301,[APAC_IST] Incremental Build 33.8.4.0 fail in PRS,Closed,Medium
+881,DE5109,[BR-P2R3_Unit_Test] CT Impact report does not generate when Material Currency and Report Currency are the same currency,Resolved,Medium
+INC0783195,DE5198,Sum of applicable discounts can get above 100%,Closed,High
+,US2187,[Current] NFUS-6.28 - SA - Load of Import Historical Discount and Rebate Offset Values into Vendavo,Accepted,
+,DE5309,Error on 9.9.2 and 9.9.4 screens - VEN-OMI-1041,Resolved,High
+,DE5218,Vendavosystem user account should not be used on any system,Resolved,High
+,US1309,[Current] PM-11.2.2.1 Pocket Price Corridor Approval Level Setting,Accepted,
+,DE5283,6.3.1: Getting error while saving 6.3.1 worksheet even if market share % is set to 100%,Closed,High
+,DE5268,CBPDTOProcessVSL - Failing when processing data,Resolved,High
+INC0794893,DE5259,Issue in price adjustment FP-00426127-1,Resolved,Medium
+504,DE4530,[VEG_IST] Taking long time to Save Review Status of WB,Closed,High
+INC0783013,DE5199,[PROD] INC0783013 SY - Problem to approve commercial term,Closed,High
